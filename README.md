@@ -1,5 +1,4 @@
-# PaymentProcessor
-A simplified payment processor that handles user accounts and transactions
+# Simplified Payment Processor
 
 ## Overview
 This project implements a simplified payment processor in C++. The application includes classes for managing user accounts and transactions, along with a payment processor to handle the creation of accounts, processing transactions, and retrieving account balances. The implementation ensures thread safety to handle concurrent transactions.
